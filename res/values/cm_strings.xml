@@ -15,4 +15,16 @@
      limitations under the License.
 -->
 <resources>
+    <string name="recommendations_title">Featured Apps</string>
+    <string name="recommendations_title_folder_settings">Featured Apps Folder</string>
+    <string name="recommendations_title_drawer_settings">Featured Apps Drawer</string>
+    <string name="recommendations_help_text">Featured Apps is a recommendation engine that helps you discover new apps relevant to your interests. If you would not like to receive these offers, you can disable this using the home screen settings.</string>
+    <string name="recommendations_help_text_facebook_link_text">Find out more</string>
+    <string name="offline_help_text">Looks like you\'re offline, you need to be online to receive featured apps and games.</string>
+
+    <!-- Feedback dialog -->
+    <string name="featured_app_feedback_dialog_title">Featured App Feedback</string>
+    <string name="featured_app_feedback_dialog_message">So we can serve you better app recommendations in the future, please tell us why you turned off Featured Apps.</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="dialog_cancel">Cancel</string>
 </resources>

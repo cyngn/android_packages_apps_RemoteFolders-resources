@@ -15,4 +15,13 @@
      limitations under the License.
 -->
 <resources>
+    <string-array name="featured_apps_feedback_dialog_options">
+        <item>Repetitive</item>
+        <item>Inappropriate</item>
+        <item>Irrelevant apps</item>
+        <item>Data usage</item>
+        <item>Intrusive</item>
+        <item>Visually unpleasant</item>
+        <item>None of the above</item>
+    </string-array>
 </resources>
