@@ -16,5 +16,11 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Rekomendowane aplikacje</string>
+  <string name="recommendations_title_folder_settings">Katalog rekomendowanych aplikacji</string>
+  <string name="recommendations_title_drawer_settings">Szuflada rekomendowanych aplikacji</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Opinie o rekomendowanych aplikacjach</string>
+  <string name="dialog_submit">Wyślij</string>
+  <string name="dialog_cancel">Anuluj</string>
 </resources>

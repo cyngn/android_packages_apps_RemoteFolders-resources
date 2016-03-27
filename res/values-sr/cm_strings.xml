@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Истакнуте апликације</string>
+  <string name="recommendations_title_folder_settings">Фолдер истакнутих апликација</string>
+  <string name="recommendations_title_drawer_settings">Фиока истакнутих апликација</string>
+  <string name="recommendations_help_text">Истакнуте апликације су препорука која помаже да откријеш нове апликације одговарајуће твојим интересовањима. Ако не желиш да добијаш понуде, можеш то онемогућити користећи подешавања почетног екрана.</string>
+  <string name="recommendations_help_text_facebook_link_text">Сазнај више</string>
+  <string name="offline_help_text">Изгледа да си ван мреже, мораш бити на мрежи да добијаш истакнуте апликације и игре.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Повратне информације истакнутих апликација</string>
+  <string name="featured_app_feedback_dialog_message">Да би ти понудили боље препоруке за апликације надаље, молим кажи нам зашто си искључио истакнуте апликације.</string>
+  <string name="dialog_submit">Пошаљи</string>
+  <string name="dialog_cancel">Поништи</string>
 </resources>

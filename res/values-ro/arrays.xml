@@ -19,8 +19,8 @@
   <string-array name="featured_apps_feedback_dialog_options">
     <item>Repetitiv</item>
     <item>Inadecvat</item>
-    <item>Irrelevant apps</item>
-    <item>Data usage</item>
+    <item>Aplicații irelevante</item>
+    <item>Utilizarea datelor</item>
     <item>Intruziune</item>
     <item>Vizual neplăcut</item>
     <item>Niciuna din cele de mai sus</item>

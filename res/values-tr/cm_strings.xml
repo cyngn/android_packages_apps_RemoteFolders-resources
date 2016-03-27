@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Öne Çıkan Uygulamalar</string>
+  <string name="recommendations_title_folder_settings">Öne Çıkan Uygulamalar klasörü</string>
+  <string name="recommendations_title_drawer_settings">Öne Çıkan Uygulamalar menüsü</string>
+  <string name="recommendations_help_text">Öne Çıkan Uygulamalar, ilgi alanlarınıza uygun yeni uygulamalar keşfetmenize yardım eden bir öneri motorudur. Bu teklifleri almak istemezseniz, bu ana ekran ayarlarını kullanarak devre dışı bırakabilirsiniz.</string>
+  <string name="recommendations_help_text_facebook_link_text">Daha fazlasını öğrenin</string>
+  <string name="offline_help_text">Görünüşe göre çevrimdışısınız, öne çıkan uygulamaları ve oyunları görmek için çevrimiçi olmanız gerekmektedir.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Öne Çıkan Uygulamalar geri bildirimi</string>
+  <string name="featured_app_feedback_dialog_message">Gelecekte size daha iyi uygulama önerileri sunabilmemiz için lütfen bize neden Öne Çıkan Uygulamalar\'ı kapattığınızı söyleyin.</string>
+  <string name="dialog_submit">Gönder</string>
+  <string name="dialog_cancel">İptal</string>
 </resources>

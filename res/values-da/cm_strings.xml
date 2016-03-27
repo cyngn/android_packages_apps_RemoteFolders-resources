@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Anbefalede Apps</string>
+  <string name="recommendations_title_folder_settings">Mappe til Anbefalede Apps</string>
+  <string name="recommendations_title_drawer_settings">Oversigt til Anbefalede Apps</string>
+  <string name="recommendations_help_text">Anbefalede Apps er en anbefalingstjeneste der hjælper dig med at opdage nye apps ud fra dine interesser. Hvis du ikke ønsker at modtage disse tilbud, kan du deaktivere dette ved hjælp af indstillingerne for startskærmen.</string>
+  <string name="recommendations_help_text_facebook_link_text">Find ud af mere</string>
+  <string name="offline_help_text">Det ser ud til du er offline, du skal være online for at modtage anbefalede apps og spil.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Tilbagemeldinger til Anbefalede Apps</string>
+  <string name="featured_app_feedback_dialog_message">For at vi kan give dig bedre anbefalinger om apps i fremtiden, så fortæl os venligst hvorfor du har slået Anbefalede Apps fra.</string>
+  <string name="dialog_submit">Send</string>
+  <string name="dialog_cancel">Annullér</string>
 </resources>

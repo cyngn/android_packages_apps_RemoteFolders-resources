@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">التطبيقات المميزة</string>
+  <string name="recommendations_title_folder_settings">مجلد التطبيقات المميزة</string>
+  <string name="recommendations_title_drawer_settings">رسام التطبيقات المميزة</string>
+  <string name="recommendations_help_text">التطبيقات المميزة عبارة عن محرك موصى به يساعدك على اكتشاف التطبيقات الجديدة الملائمة لاهتماماتك. إذا كنت لا تريد تلقي هذه العروض، يمكنك تعطيل هذا باستخدام إعدادات الشاشة الرئيسية.</string>
+  <string name="recommendations_help_text_facebook_link_text">معرفة المزيد</string>
+  <string name="offline_help_text">يبدو وكأنك غير متصل، عليك أن تكون متصلاً بالإنترنت لتلقي تطبيقات وألعاب مميزة.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">ملاحظات على التطبيقات المميزة</string>
+  <string name="featured_app_feedback_dialog_message">حيث يمكن أن نعرض لك توصيات بأفضل التطبيقات في المستقبل، من فضلك أخبرنا عن سبب إيقاف تشغيل التطبيقات المميزة.</string>
+  <string name="dialog_submit">إرسال</string>
+  <string name="dialog_cancel">إلغاء</string>
 </resources>

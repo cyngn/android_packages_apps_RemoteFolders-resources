@@ -17,12 +17,12 @@
 -->
 <resources>
   <string-array name="featured_apps_feedback_dialog_options">
-    <item>חוזר על עצמו</item>
-    <item>לא הולם</item>
-    <item>יישומים לא רלוונטיים</item>
-    <item>שימוש בנתונים</item>
-    <item>פולשני</item>
-    <item>לא נעים חזותית</item>
-    <item>אף אחת מהאפשרויות לעיל</item>
+    <item>تكراري</item>
+    <item>غير مناسب</item>
+    <item>تطبيقات غير ملائمة</item>
+    <item>استخدام البيانات</item>
+    <item>تدخلي</item>
+    <item>غير سار مرئياً</item>
+    <item>لا شيء ما ورد أعلاه</item>
   </string-array>
 </resources>

@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Раім дадаткі</string>
+  <string name="recommendations_title_folder_settings">Тэчка дадаткаў якія раім</string>
+  <string name="recommendations_title_drawer_settings">Спіс дадаткаў якіх раім</string>
+  <string name="recommendations_help_text">Параіць дадаткі — менеджар параду, які дапамагае даведацца пра новыя дадаткі, што адпавядаюць інтарэсам. Калі не жадаеш атрымваць такія прапановы, іх можна адключыць, выкарыстоўваючы налады хатняга экрана.</string>
+  <string name="recommendations_help_text_facebook_link_text">Даведацца болей</string>
+  <string name="offline_help_text">Мабыць, ты ў афлайн-рэжыме. Каб атрымваць рэкамендаваныя дадаткі і гульні, трэба быць анлайн.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Водгукі дадаткаў якія раяць</string>
+  <string name="featured_app_feedback_dialog_message">Каб мы прапаноўвале і далей лепшыя рэкамендацыі ў будучыні, адкажы, чаму ты выключыў Дадаткі якія раім.</string>
+  <string name="dialog_submit">Даслаць</string>
+  <string name="dialog_cancel">Скасаваць</string>
 </resources>

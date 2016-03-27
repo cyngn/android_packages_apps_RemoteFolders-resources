@@ -16,6 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Rekommenderade appar</string>
+  <string name="recommendations_title_folder_settings">Mapp för rekommenderade appar</string>
+  <string name="recommendations_title_drawer_settings">Appmeny för rekommenderade appar</string>
+  <string name="recommendations_help_text">Rekommenderade appar är en sökmotor som hjälper dig att hitta nya appar baserat på dina intressen. Om du inte vill få dessa förslag kan du inaktivera denna funktion i inställningarna för hemskärmen.</string>
+  <string name="recommendations_help_text_facebook_link_text">Läs mer</string>
+  <string name="offline_help_text">Det ser ut som om du är offline, du måste vara online för se dagens rekommenderade appar och spel.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Feedback för rekommenderade appar</string>
+  <string name="featured_app_feedback_dialog_message">För att vi ska kunna ge dig bättre apprekommendationer i framtiden önskar vi att du talar om varför du stängde av rekommenderade appar.</string>
+  <string name="dialog_submit">Skicka</string>
   <string name="dialog_cancel">Avbryt</string>
 </resources>

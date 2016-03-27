@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">แอปแนะนำ</string>
+  <string name="recommendations_title_folder_settings">โฟลเดอร์แอปแนะนำ</string>
+  <string name="recommendations_title_drawer_settings">พื้นที่วางแอปแนะนำ</string>
+  <string name="recommendations_help_text">แอปแนะนำเป็นโปรแกรมการแนะนำที่ช่วยให้คุณค้นพบแอปใหม่ ๆ ที่ตรงกับความสนใจ หากไม่ต้องการรับข้อเสนอเหล่านี้ คุณสามารถปิดใช้งานคุณสมบัตินี้โดยใช้การตั้งค่าหน้าจอหลัก</string>
+  <string name="recommendations_help_text_facebook_link_text">ค้นหาเพิ่มเติม</string>
+  <string name="offline_help_text">ดูเหมือนว่าคุณออฟไลน์อยู่ คุณต้องออนไลน์เพื่อรับแอปและเกมที่ได้รับการแนะนำ</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">ข้อคิดเห็นแอปแนะนำ</string>
+  <string name="featured_app_feedback_dialog_message">เพื่อให้เราสามารถให้คำแนะนำเกี่ยวกับแอปได้ดีขึ้นในอนาคต โปรดบอกให้เราทราบเหตุผลที่คุณปิดคุณสมบัติแอปแนะนำ</string>
+  <string name="dialog_submit">ส่ง</string>
+  <string name="dialog_cancel">ยกเลิก</string>
 </resources>

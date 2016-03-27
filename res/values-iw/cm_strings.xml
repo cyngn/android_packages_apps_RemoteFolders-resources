@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">יישומים נבחרים</string>
+  <string name="recommendations_title_folder_settings">תיקיית יישומים נבחרים</string>
+  <string name="recommendations_title_drawer_settings">מגירת יישומים נבחרים</string>
+  <string name="recommendations_help_text">\"יישומים נבחרים\" הוא מנגנון המלצות שיעזור לך לגלות יישומים חדשים הקשורים לתחומי העניין שלך. אם תרצה לוותר על המלצות אלה, תוכל לבטל את האפשרות ממסך ההגדרות בעמוד הבית.</string>
+  <string name="recommendations_help_text_facebook_link_text">למידע נוסף</string>
+  <string name="offline_help_text">נראה שהמכשיר אינו מחובר לרשת, עליך להתחבר כדי לקבל יישומים ומשחקים נבחרים.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">משוב על יישומים נבחרים</string>
+  <string name="featured_app_feedback_dialog_message">כדי שנוכל לשפר את ההמלצות ליישומים בעתיד, תן לנו משוב על הסיבות שבגללן כיבית את \"יישומים נבחרים\".</string>
+  <string name="dialog_submit">שלח</string>
+  <string name="dialog_cancel">בטל</string>
 </resources>
