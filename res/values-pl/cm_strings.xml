@@ -19,8 +19,12 @@
   <string name="recommendations_title">Rekomendowane aplikacje</string>
   <string name="recommendations_title_folder_settings">Katalog rekomendowanych aplikacji</string>
   <string name="recommendations_title_drawer_settings">Szuflada rekomendowanych aplikacji</string>
+  <string name="recommendations_help_text">Polecane aplikacje, to usługa rekomendacji, która pomoże Ci odkryć nowe aplikacje odpowiednie do Twoich zainteresowań. Jeśli nie chcesz otrzymywać tych ofert, można wyłączyć to przy użyciu ustawień ekranu głównego.</string>
+  <string name="recommendations_help_text_facebook_link_text">Dowiedz się więcej</string>
+  <string name="offline_help_text">Wygląda na to, że jesteś w trybie offline, musisz być online, aby otrzymać Rekomendowane aplikacje i gry.</string>
   <!-- Feedback dialog -->
   <string name="featured_app_feedback_dialog_title">Opinie o rekomendowanych aplikacjach</string>
+  <string name="featured_app_feedback_dialog_message">Aby móc dostarczać lepsze rekomendacje aplikacji w przyszłości, proszę powiedz nam, dlaczego wyłączono Rekomendowane aplikacje.</string>
   <string name="dialog_submit">Wyślij</string>
   <string name="dialog_cancel">Anuluj</string>
 </resources>

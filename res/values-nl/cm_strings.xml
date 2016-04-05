@@ -16,8 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Aanbevolen apps</string>
+  <string name="recommendations_title_folder_settings">Map Aanbevolen apps</string>
+  <string name="recommendations_title_drawer_settings">Overzicht Aanbevolen apps</string>
+  <string name="recommendations_help_text">Aanbevolen apps is een aanbevelingsmechanimse dat u helpt nieuwe interessante apps te vinden. Als u deze aanbiedingen liever niet krijgt, kunt u dit uitschakelen in de thuisscherm-instellingen.</string>
   <string name="recommendations_help_text_facebook_link_text">Meer weten</string>
+  <string name="offline_help_text">Het lijkt erop dat u offline bent. U moet online zijn om aanbevolen apps en games te ontvangen.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Feedback Aanbevolen apps</string>
+  <string name="featured_app_feedback_dialog_message">Wilt u ons vertellen waarom u Aanbevolen apps heeft uitgeschakeld? Zo kunnen wij u in de toekomst beter apps aanbevelen.</string>
   <string name="dialog_submit">Verzenden</string>
   <string name="dialog_cancel">Annuleren</string>
 </resources>

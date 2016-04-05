@@ -18,11 +18,11 @@
 <resources>
   <string-array name="featured_apps_feedback_dialog_options">
     <item>Powtarzanie</item>
-    <item>Inappropriate</item>
-    <item>Irrelevant apps</item>
+    <item>Niewłaściwe</item>
+    <item>Aplikacje bez znaczenia</item>
     <item>Data usage</item>
-    <item>Intrusive</item>
-    <item>Visually unpleasant</item>
+    <item>Inwazyjne</item>
+    <item>Wizualnie nieprzyjemna</item>
     <item>Żadna z powyższych</item>
   </string-array>
 </resources>

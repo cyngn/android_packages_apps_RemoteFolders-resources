@@ -16,15 +16,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="recommendations_title">Apps sugeridos</string>
-  <string name="recommendations_title_folder_settings">Pasta de apps sugeridos</string>
-  <string name="recommendations_title_drawer_settings">Gaveta de Apps sugeridos</string>
-  <string name="recommendations_help_text">Apps Sugeridos é um sistema de recomendações que o ajuda a descobrir novos apps relevantes para os seus interesses. Se não desejar receber estas ofertas, pode desativá-las nas configurações da tela inicial.</string>
+  <string name="recommendations_title">Aplicativos em destaque</string>
+  <string name="recommendations_title_folder_settings">Pasta de aplicativos em destaque</string>
+  <string name="recommendations_title_drawer_settings">Gaveta de aplicativos em destaque</string>
+  <string name="recommendations_help_text">Aplicativos em destaque é um mecanismo de recomendações que o ajuda a descobrir novos aplicativos relevantes para seus interesses. Se não quiser receber estas ofertas, pode desativá-las nas configurações da tela inicial.</string>
   <string name="recommendations_help_text_facebook_link_text">Descobrir mais</string>
-  <string name="offline_help_text">Parece que você está sem internet, você precisa estar conectado para receber apps e jogos sugeridos.</string>
+  <string name="offline_help_text">Parece que você está offline, você precisa estar conectado para ver aplicativos e jogos em destaque.</string>
   <!-- Feedback dialog -->
-  <string name="featured_app_feedback_dialog_title">Feedback sobre as Apps Sugeridos</string>
-  <string name="featured_app_feedback_dialog_message">Para que possamos oferecer melhores recomendações de apps no futuro, por favor diga-nos o motivo de ter desligado os Apps Sugeridos.</string>
+  <string name="featured_app_feedback_dialog_title">Feedback sobre aplicativos em destaque</string>
+  <string name="featured_app_feedback_dialog_message">Para que possamos oferecer melhores recomendações de aplicativos no futuro, por favor diga-nos o motivo pelo qual desligou os Aplicativos em destaque.</string>
   <string name="dialog_submit">Enviar</string>
   <string name="dialog_cancel">Cancelar</string>
 </resources>

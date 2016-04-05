@@ -16,13 +16,5 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="featured_apps_feedback_dialog_options">
-    <item>Repetitivo</item>
-    <item>Inapropriado</item>
-    <item>Aplicativos irrelevantes</item>
-    <item>Uso de dados</item>
-    <item>Intrusivo</item>
-    <item>Visualmente não agradável</item>
-    <item>Nenhuma das anteriores</item>
-  </string-array>
+  <!-- Feedback dialog -->
 </resources>
