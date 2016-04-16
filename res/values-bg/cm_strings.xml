@@ -16,15 +16,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="recommendations_title">Featured Apps</string>
-  <string name="recommendations_title_folder_settings">Featured Apps папка</string>
-  <string name="recommendations_title_drawer_settings">Лента на Featured Apps</string>
-  <string name="recommendations_help_text">Featured Apps Ви прави препоръки за приложения отговарящи на Вашите интереси. Ако не искате да получавате тези оферти, можете да ги забраните използвайки настройките на началния екран.</string>
+  <string name="recommendations_title">Препоръчани приложения</string>
+  <string name="recommendations_title_folder_settings">Папка на препоръчани приложения</string>
+  <string name="recommendations_title_drawer_settings">Лента на препоръчани приложения</string>
+  <string name="recommendations_help_text">Препоръчани приложения Ви прави препоръки за приложения отговарящи на Вашите интереси. Ако не искате да получавате тези оферти, можете да забраните това с помощта на началния екран настройки.</string>
   <string name="recommendations_help_text_facebook_link_text">Научете повече</string>
-  <string name="offline_help_text">Изглежда, че не сте на линия, трябва да сте на линия, за да получавате характерни приложения и игри.</string>
+  <string name="offline_help_text">Изглежда, че сте офлайн, трябва да сте онлайн, за да се получават препоръчани приложения и игри.</string>
   <!-- Feedback dialog -->
-  <string name="featured_app_feedback_dialog_title">Оценка на Featured Apps</string>
-  <string name="featured_app_feedback_dialog_message">Моля кажете ни защо изключихте Featured Apps, за да можем в бъдеще да Ви правим по-уместни препоръки.</string>
+  <string name="featured_app_feedback_dialog_title">Препоръчани приложения обратна връзка</string>
+  <string name="featured_app_feedback_dialog_message">За да можем в бъдеще да Ви правим по-уместни препоръки, моля да ни кажете защо изключихте препоръчани приложения.</string>
   <string name="dialog_submit">Изпрати</string>
   <string name="dialog_cancel">Отказ</string>
 </resources>

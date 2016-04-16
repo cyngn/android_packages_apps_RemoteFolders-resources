@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Aplikasi yang dipromosikan</string>
+  <string name="recommendations_title_folder_settings">Berkas Aplikasi yang ditampilkan</string>
+  <string name="recommendations_title_drawer_settings">Aplikasi laci yang ditampilkan</string>
+  <string name="recommendations_help_text">Aplikasi yang ditampilkan adalah mesin rekomendasi yang membantu Anda menemukan aplikasi-aplikasi baru yang berhubungan dengan ketertarikan Anda. Apabila Anda tidak ingin menerima penawaran ini, Anda dapat menonaktifkannya dengan menggunakan pengaturan layar beranda.</string>
+  <string name="recommendations_help_text_facebook_link_text">Mencari dengan lebih lanjut</string>
+  <string name="offline_help_text">Sepertinya Anda sedang tidak terhubung, Anda harus berada di dalam jaringan untuk menerima aplikasi yang ditampilkan dan permainan.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Umpan Balik Aplikasi yang Ditampilkan</string>
+  <string name="featured_app_feedback_dialog_message">Karena itu kita dapat menyediakan Anda dengan anjuran aplikasi yang lebih baik di masa depan, silakan beritahu kami mengapa Anda mematikan Aplikasi yang ditampilkan.</string>
+  <string name="dialog_submit">Serahkan</string>
+  <string name="dialog_cancel">Batalkan</string>
 </resources>
