@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Kiemelt alkalmazások</string>
+  <string name="recommendations_title_folder_settings">Kiemelt alkalmazások mappa</string>
+  <string name="recommendations_title_drawer_settings">Kiemelt alkalmazások áttekintő</string>
+  <string name="recommendations_help_text">Kiemelt alkalmazások egy ajánló-motor, amely segít felfedezni az érdeklődésének megfelelő új alkalmazásokat. Ha nem szeretné megkapni ezeket az ajánlatokat, akkor letilthatja ezt a kezdőképernyő beállításaiban.</string>
+  <string name="recommendations_help_text_facebook_link_text">Tudjon meg többet</string>
+  <string name="offline_help_text">Úgy néz ki, offline van, internet szükséges ahhoz, hogy megkapja a kiemelt alkalmazásokat és játékokat.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Kiemelt alkalmazások visszajelzés</string>
+  <string name="featured_app_feedback_dialog_message">Hogy a jövőben jobb alkalmazás ajánlásokkal tudjunk szolgálni, kérjük, mondja el, miért kapcsolta ki a Kiemelt alkalmazásokat.</string>
+  <string name="dialog_submit">Beküld</string>
+  <string name="dialog_cancel">Elvet</string>
 </resources>
