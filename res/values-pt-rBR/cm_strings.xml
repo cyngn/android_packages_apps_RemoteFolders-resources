@@ -24,7 +24,7 @@
   <string name="offline_help_text">Parece que você está offline, você precisa estar conectado para ver aplicativos e jogos em destaque.</string>
   <!-- Feedback dialog -->
   <string name="featured_app_feedback_dialog_title">Feedback sobre aplicativos em destaque</string>
-  <string name="featured_app_feedback_dialog_message">Para que possamos oferecer melhores recomendações de aplicativos no futuro, por favor diga-nos o motivo pelo qual desligou os Aplicativos em destaque.</string>
+  <string name="featured_app_feedback_dialog_message">Para que possamos oferecer melhores recomendações de aplicativos no futuro, por favor, diga-nos o motivo pelo qual desligou os Aplicativos em destaque.</string>
   <string name="dialog_submit">Enviar</string>
   <string name="dialog_cancel">Cancelar</string>
 </resources>

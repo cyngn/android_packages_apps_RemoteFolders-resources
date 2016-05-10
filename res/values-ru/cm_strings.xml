@@ -19,7 +19,7 @@
   <string name="recommendations_title">Рекомендуемые приложения</string>
   <string name="recommendations_title_folder_settings">Папка Рекомендуемых приложений</string>
   <string name="recommendations_title_drawer_settings">Меню Рекомендуемых приложений</string>
-  <string name="recommendations_help_text">Рекомендуемые приложения — менеджер рекомендаций, который помогает вам узнать о новых приложениях, соответствующих вашим интересам. Если вы не желаете получать такие предложения, их можно отключить, используя настройки домашнего экрана.</string>
+  <string name="recommendations_help_text">Рекомендуемые приложения — это менеджер рекомендаций, который помогает вам узнать о новых приложениях, соответствующих вашим интересам. Если вы не желаете получать такие предложения, их можно отключить, используя настройки домашнего экрана.</string>
   <string name="recommendations_help_text_facebook_link_text">Узнайте больше</string>
   <string name="offline_help_text">Похоже, вы в офлайн-режиме. Чтобы получать рекомендуемые приложения и игры, нужно быть онлайн.</string>
   <!-- Feedback dialog -->

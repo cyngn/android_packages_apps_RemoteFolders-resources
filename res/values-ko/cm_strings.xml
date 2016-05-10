@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">추천 앱</string>
+  <string name="recommendations_title_folder_settings">추천 앱 폴더</string>
+  <string name="recommendations_title_drawer_settings">추천 앱 서랍</string>
+  <string name="recommendations_help_text">추천 앱은 사용자의 관심 분야에 관련한 새로운 앱을 찾는 것을 돕는 추천 엔진입니다. 이 추천을 받지 않으시려면 홈 화면 설정에서 사용을 중지할 수 있습니다.</string>
+  <string name="recommendations_help_text_facebook_link_text">더 찾아보기</string>
+  <string name="offline_help_text">오프라인 상태입니다. 앱과 게임을 추천 받으려면 온라인 상태가 되어야 합니다.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">추천 앱 피드백</string>
+  <string name="featured_app_feedback_dialog_message">저희의 더 나은 앱 추천을 위해 앱 추천 기능을 사용하지 않는 이유를 말씀해주세요.</string>
+  <string name="dialog_submit">제출</string>
+  <string name="dialog_cancel">취소</string>
 </resources>

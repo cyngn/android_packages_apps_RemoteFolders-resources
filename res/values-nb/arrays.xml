@@ -17,12 +17,12 @@
 -->
 <resources>
   <string-array name="featured_apps_feedback_dialog_options">
-    <item>Berulang</item>
-    <item>Tidak pantas</item>
-    <item>Aplikasi yang tidak relevan</item>
-    <item>Penggunaan data</item>
-    <item>Mengganggu</item>
-    <item>Kurang nyaman secara visual</item>
-    <item>Tidak ada dari yang di atas</item>
+    <item>Repeterende</item>
+    <item>Upassende</item>
+    <item>Irrelevante apper</item>
+    <item>Databruk</item>
+    <item>Påtrengende</item>
+    <item>Visuelt ubehagelig</item>
+    <item>Ingen av de ovenfor</item>
   </string-array>
 </resources>

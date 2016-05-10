@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Utvalgte Apper</string>
+  <string name="recommendations_title_folder_settings">Utvalgte Apper mappen</string>
+  <string name="recommendations_title_drawer_settings">Utvalgte Apper skuffen</string>
+  <string name="recommendations_help_text">Utvalgte Apper er en anbefalingsmaskin som hjelper deg med å finne nye programmer som er relevante for dine interesser. Hvis du ikke ønsker å motta disse tilbudene, kan du deaktivere dette ved hjelp av startsidens innstillingene.</string>
+  <string name="recommendations_help_text_facebook_link_text">Finn ut mer</string>
+  <string name="offline_help_text">Ser ut som du er frakoblet. Du må være tilkoblet for å få utvalgte apper og spill.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Utvalgte Apper tilbakemelding</string>
+  <string name="featured_app_feedback_dialog_message">Så vi kan gi deg bedre app anbefalinger i fremtiden, vennligst fortell oss hvorfor du deaktiverte Utvalgte Apper.</string>
+  <string name="dialog_submit">Send inn</string>
+  <string name="dialog_cancel">Avbryt</string>
 </resources>

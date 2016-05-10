@@ -17,12 +17,12 @@
 -->
 <resources>
   <string-array name="featured_apps_feedback_dialog_options">
-    <item>Berulang</item>
-    <item>Tidak pantas</item>
-    <item>Aplikasi yang tidak relevan</item>
-    <item>Penggunaan data</item>
-    <item>Mengganggu</item>
-    <item>Kurang nyaman secara visual</item>
-    <item>Tidak ada dari yang di atas</item>
+    <item>반복적인 앱</item>
+    <item>부적절한 앱</item>
+    <item>적합하지 않은 앱</item>
+    <item>데이터 사용량</item>
+    <item>거슬리는 앱</item>
+    <item>볼 품 없는 앱</item>
+    <item>위에 없음</item>
   </string-array>
 </resources>
