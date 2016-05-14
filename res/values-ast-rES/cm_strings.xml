@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Aplicaciones destacaes</string>
+  <string name="recommendations_title_folder_settings">Carpeta d\'aplicaciones destacaes</string>
+  <string name="recommendations_title_drawer_settings">Caxón d\'aplicaciones destacaes</string>
+  <string name="recommendations_help_text">Les aplicaciones destacaes ye un motor d\'aconseyamientos que t\'ayuda a descubrir aplicaciones relevantes nueves pa los tos intereses. Si nun te prestaría recibir estes ufiertes, pues deshabilitalu usando los axustes de la pantalla de d\'aniciu.</string>
+  <string name="recommendations_help_text_facebook_link_text">Descubri más</string>
+  <string name="offline_help_text">Paez que tas desconeutáu, precises tar coneutáu a internet pa recibir aplicaciones y xuegos destacaos.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Feedback d\'aplicaciones destacaes</string>
+  <string name="featured_app_feedback_dialog_message">Pa qu\'entós podamos sirvite aconseyamientos d\'aplicaciones meyores nel futuru, por favor dimos porqué desactivesti Aplicaciones destacaes.</string>
+  <string name="dialog_submit">Unviar</string>
+  <string name="dialog_cancel">Encaboxar</string>
 </resources>
