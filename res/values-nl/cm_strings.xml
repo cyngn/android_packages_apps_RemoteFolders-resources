@@ -24,7 +24,7 @@
   <string name="offline_help_text">Het lijkt erop dat u offline bent. U moet online zijn om aanbevolen apps en games te ontvangen.</string>
   <!-- Feedback dialog -->
   <string name="featured_app_feedback_dialog_title">Feedback Aanbevolen apps</string>
-  <string name="featured_app_feedback_dialog_message">Wilt u ons vertellen waarom u Aanbevolen apps heeft uitgeschakeld? Zo kunnen wij u in de toekomst beter apps aanbevelen.</string>
+  <string name="featured_app_feedback_dialog_message">Wilt u ons vertellen waarom u Aanbevolen apps hebt uitgeschakeld? Zo kunnen wij u in de toekomst beter apps aanbevelen.</string>
   <string name="dialog_submit">Verzenden</string>
   <string name="dialog_cancel">Annuleren</string>
 </resources>
