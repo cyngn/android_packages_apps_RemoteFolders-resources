@@ -16,5 +16,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="recommendations_title">Aplicacións destacadas</string>
+  <string name="recommendations_title_folder_settings">Cartafol de aplicacións destacadas</string>
+  <string name="recommendations_title_drawer_settings">Cartafol de aplicacións destacadas</string>
+  <string name="recommendations_help_text">Aplicacións destacadas é un sistema que che axuda a descubrir novos aplicativos relevantes aos teus intereses. Se non desexas recibir estas recomendacións, podes desactivalas nos axustes da pantalla de inicio.</string>
+  <string name="recommendations_help_text_facebook_link_text">Saber máis</string>
+  <string name="offline_help_text">Semella que estás fora de liña, tes que estar en liña para recibir recomendacións sobre xogos e aplicacións.</string>
   <!-- Feedback dialog -->
+  <string name="featured_app_feedback_dialog_title">Comentarios canto as aplicacións destacadas</string>
+  <string name="featured_app_feedback_dialog_message">Para poderche facer mellores recomendacións no futuro, por favor cóntanos por que desactivaches as aplicacións recomendadas.</string>
+  <string name="dialog_submit">Enviar</string>
+  <string name="dialog_cancel">Cancelar</string>
 </resources>
