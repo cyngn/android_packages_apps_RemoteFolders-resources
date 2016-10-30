@@ -17,4 +17,5 @@
 -->
 <resources>
   <!-- Feedback dialog -->
+  <string name="dialog_cancel">Nuligi</string>
 </resources>
